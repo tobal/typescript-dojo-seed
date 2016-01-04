@@ -1,0 +1,9 @@
+{
+	"framework": "jasmine",
+	"dependencies": {
+		"jasmine-node": "^1.14"
+	},
+	"src_files": [
+		"app/*.js"
+	]
+}
